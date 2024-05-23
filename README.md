@@ -3,6 +3,8 @@
  Backend created in Intellij using Java, Spring Data JPA, Spring Web, MySQL Driver and Spring Boot DevTools.
 
 
+<Video src = "https://github.com/JustinAdkins25/CRUDFullStackApplication/assets/104293741/60411807-6588-4895-938d-78486ba89245" /> <br>
+
 
 
 
